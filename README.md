@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Pierre Plantarrosa Bejarano 👋
 
-<!--
-**pierreplantarrosabejarano-dot/pierreplantarrosabejarano-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería Informática en la Universidad Autónoma Gabriel Rene Moreno (UAGRM) y actualmente estoy aprendiendo sobre desarrollo de software.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🔭 Actualmente estoy cursando 8 materias de la carrera.
+- 🌱 Estoy aprendiendo varios lenguajes, entre ellos **Ruby, Go y Rust**.
+- 📫 Cómo contactarme: **pplantarrosab126@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías y Herramientas
+
+*   **Lenguajes:** Java, Python, C#, C++, JavaScript, HTML, CSS, TypeScript, SQL.
+*   **Bases de Datos:** MySQL, SQL Server, PostgreSQL, SQLite.
+*   **Entornos de Desarrollo:** Visual Studio Code, Antigravity IDE, Trae IDE, NetBeans.
+*   **Herramientas con IA:** Claude Code, OpenCode, Cursor.
