@@ -5,7 +5,7 @@ Soy estudiante de Ingeniería Informática en la Universidad Autónoma Gabriel R
 ## 🚀 Sobre mí
 - 🔭 Actualmente estoy cursando 8 materias de la carrera.
 - 🌱 Estoy aprendiendo varios lenguajes, entre ellos **Ruby, Go y Rust**.
-- 📫 Cómo contactarme: **pplantarrosab126@gmail.com**
+- 📫 Cómo contactarme: **pplantarrosab126@ficct.uagrm.edu.bo**
 
 ## 💻 Tecnologías y Herramientas
 
